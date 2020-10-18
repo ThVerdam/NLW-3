@@ -35,9 +35,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
-## 🧠 Desafio
+## 🧠 Desafios
 
-Happy foi fruto de uma ideia da equipe Rocketseat para a Next Level Week, neste repositório irei cumprir os desafios para alcançar o próximo nível
+Este repositório servirá para mostrar o meu processo pós Next Level Week cumprindo os desafios e alcançando o próximo nível até termos uma aplicação completa com uma tecnologia poderosa e enxuta. 😃
+
+"O aprendizado é contínuo e sempre haverá um próximo nível"
+- Rocketseat 🚀
 
 ## :memo: Licença
 
